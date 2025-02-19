@@ -14,8 +14,8 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 ## 📂 Projects
 
 ### 🔹 [Data Warehouse and OLAP](https://github.com/Maxan268/Data-Warehouse-and-OLAP)
-- 🛠 **Tech Stack:** Python, Spark, PostgreSQL
-- 📊 **Description:** A data pipeline that processes and visualizes real-time streaming data.
+- 🛠 **Tech Stack:** Python, Pentaho, SSIS, SSAS, SQL Server.
+- 📊 **Description:** A data warehouse and OLAP system for analyzing student grades and GPA at the University of Illinois from 2010 to 2023.
 
 ### 🔹 [Another Project](https://github.com/yourusername/another-project)
 - 🛠 **Tech Stack:** SQL, Machine Learning
