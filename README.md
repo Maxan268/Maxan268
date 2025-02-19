@@ -30,5 +30,5 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 
 ---
 
-> *"Data is the new oil. It’s valuable, but if unrefined, it cannot really be used."* 🚀
+> *"“Data is a precious thing and will last longer than the systems themselves.” — Tim Berners-Lee, inventor of the World Wide Web.* 🚀
 ********
