@@ -13,7 +13,7 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 
 ## 📂 Projects
 
-### 🔹 [Data Warehouse and OLAP]([https://github.com/yourusername/project-name](https://github.com/Maxan268/Data-Warehouse-and-OLAP))
+### 🔹 [Data_Warehouse_and_OLAP] ([https://github.com/yourusername/project-name](https://github.com/Maxan268/Data-Warehouse-and-OLAP))
 - 🛠 **Tech Stack:** Python, Spark, PostgreSQL
 - 📊 **Description:** A data pipeline that processes and visualizes real-time streaming data.
 
