@@ -9,7 +9,6 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 - **Big Data Technologies:** Apache Spark, Hadoop
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Machine Learning:** Scikit-Learn, TensorFlow
-- **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **ETL & Data Pipelines:** Airflow, Kafka, Pentaho
 
 ## 📂 Projects
