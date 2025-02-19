@@ -17,9 +17,13 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 - 🛠 **Tech Stack:** Python, Pentaho, SSIS, SSAS, SQL Server.
 - 📊 **Description:** A data warehouse and OLAP system for analyzing student grades and GPA at the University of Illinois from 2010 to 2023.
 
-### 🔹 [Another Project](https://github.com/yourusername/another-project)
-- 🛠 **Tech Stack:** SQL, Machine Learning
-- 📊 **Description:** A predictive model for customer segmentation using clustering techniques.
+### 🔹 [Data-Analysis-And-Visualization](https://github.com/Maxan268/Data-Analysis-And-Visualization)
+- 🛠 **Tech Stack:** Oracle, Machine Learning, Deep Learning, Optuna
+- 📊 **Description:** Models for Predicting Pet Adoption Time.
+
+### 🔹 [Distributed-Database](https://github.com/Maxan268/Data-Analysis-And-Visualization)
+- 🛠 **Tech Stack:** Hadoop, HBase
+- 📊 **Description:** Installation Guide for Hadoop, HBase, and Distributed Connection.
 
 ## 📫 Contact
 
