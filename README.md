@@ -21,7 +21,7 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 - 🛠 **Tech Stack:** Oracle, Machine Learning, Deep Learning, Optuna
 - 📊 **Description:** Models for Predicting Pet Adoption Time.
 
-### 🔹 [Distributed-Database](https://github.com/Maxan268/Data-Analysis-And-Visualization)
+### 🔹 [Distributed-Database](https://github.com/Maxan268/Distributed-Database)
 - 🛠 **Tech Stack:** Hadoop, HBase
 - 📊 **Description:** Installation Guide for Hadoop, HBase, and Distributed Connection.
 
