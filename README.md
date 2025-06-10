@@ -25,7 +25,7 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 - 🛠 **Tech Stack:** Hadoop, HBase
 - 📊 **Description:** Installation Guide for Hadoop, HBase, and Distributed Connection.
 
-### 🔹 [Introduction-to-Computer-Vison](https://github.com/Maxan268/Introduction-to-Computer-Vision)
+### 🔹 [Introduction-to-Computer-Vision](https://github.com/Maxan268/Introduction-to-Computer-Vision)
 - 🛠 **Tech Stack:** Machine Learning, Deep Learning, Optuna
 - 📊 **Description:** Models for predict Art Style.
 
