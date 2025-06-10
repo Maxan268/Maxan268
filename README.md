@@ -25,6 +25,10 @@ Hi there! 👋 I'm a **Data Engineering** student at the **University of Informa
 - 🛠 **Tech Stack:** Hadoop, HBase
 - 📊 **Description:** Installation Guide for Hadoop, HBase, and Distributed Connection.
 
+### 🔹 [Cloud-Computing](https://github.com/Maxan268/Cloud-Computing)
+- 🛠 **Tech Stack:** Microsoft Azure, Kafka, Flink
+- 📊 **Description:** A project that uses basic cloud tools to perform tasks.
+
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Maxan268)
